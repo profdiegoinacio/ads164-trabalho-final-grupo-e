@@ -5,19 +5,9 @@ Este repositório serve como um template para projetos Android. Ele utiliza a SD
 
 ## Como usar
 
-1. **Criar um repositório a partir do template:**
-
-   Clique no botão "Use this template" no GitHub para criar um novo repositório a partir deste template. Dê um nome descritivo ao seu repositório.
-
-2. **Clonar o repositório:**
-
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   ```
-
 3. **Abrir no Android Studio:**
 
-   Abra o projeto clonado no Android Studio.
+   Abra o projeto no Android Studio.
 
 4. **Configurar o projeto:**
 
